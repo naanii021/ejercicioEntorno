@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 este es otro ejemplo del ejercicio 
 y esta es la modificacion de ivan1
 
+=======
+
+este es otro ejemplo del ejercicio
+modificacion de nani ahorita :) 
+ahorita mismo lo modifica el chamacote ivan
+>>>>>>> desarrollo_1
